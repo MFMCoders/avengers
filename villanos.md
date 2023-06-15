@@ -2,4 +2,3 @@
 
 * spot
 * carnage
-* Capitán America
